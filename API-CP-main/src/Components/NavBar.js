@@ -18,7 +18,7 @@ const NavBar = (props) => {
     </Navbar.Brand></Link>
             <Navbar.Collapse className="justify-content-end ">
                 <Navbar.Text className="text-white">
-                    Signed in as: Ahmed Ben Zid
+                    Signed in as: jday chayma
                 </Navbar.Text>
             </Navbar.Collapse>
         </Navbar>
